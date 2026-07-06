@@ -224,6 +224,11 @@ p.note { display: none; }
 <h2><span class="yellow">鈴鹿の8時間耐久が例年から1ヶ月早く開催、雨のレースとなりました</span></h2>
 <a href="20260706_028.JPG" target="_blank"><img src="20260706_028.JPG" alt="サンプル画像" class="responsive-media"></a>
 
+<h2><span class="yellow">レースはペースカーが入った状態で8時間のチェッカーとなりました</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EEK_tvW7Kfg?si=HeJyqpFKKBsGgXfB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
 <h2><span class="yellow">優勝はHRC、2位はヤマハワークス、3位はBMWでした</span></h2>
 <a href="20260706_029.JPG" target="_blank"><img src="20260706_029.JPG" alt="サンプル画像" class="responsive-media"></a>
 
